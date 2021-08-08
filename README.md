@@ -1,4 +1,4 @@
-# Map-Rearching-Project
+# Map-Searching-Project
 Data Structures and Algorithms final project
 
 An Okinawa traveling map project that can search the shortest path and the fastest path between different populor tourist attractions.
